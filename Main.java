@@ -1,5 +1,4 @@
 package comp581a2;
-
 // Team Members:
 // Kyle Dixon (PID: 720464669)
 // Jeremy Kim (PID: 720471249)
